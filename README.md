@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Data Analysis
 - 🌱 I’m currently learning in Sandip University nashik and pursuing B.tech computer science and engineering with specialization in business analytics and optimisation.
 - 💞️ I’m looking to collaborate on Game development using unreal engine.
-- 📫 How to reach me with email(jayesh4178@gmail.com)/phone no.(+91 9975154178)
+- 📫 To reach me :-Email(jayesh4178@gmail.com)
 
 <!---
 JayeshS42/JayeshS42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
